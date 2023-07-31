@@ -18,3 +18,15 @@ WHEN I open API GET routes in Insomnia Core for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
+
+## Installation 
+
+- Run command "node server.js" in terminal 
+
+## Functionality 
+
+My app is currently not functioning as I seem to be having issues using sql on my local machine. I've uninstalled and reinstalled the program and cannot get it to initialize my server to test the app 
+
+## Tutorial 
+N/A 
+
